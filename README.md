@@ -3,7 +3,7 @@ CDS6214 Data Science Fundamentals (Trimester March/April 2024 - Term 2410)
 
 ## **Overview**
 <div align="justify"> 
-This project focuses on predicting injury occurrences in runners using machine learning techniques. The dataset, obtained from <a href='https://test.dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/UWU9PV' target='_blank'>DataVerseNL</a>, consists of training logs from a Dutch high-level running team (2012-2019), including various training and physiological metrics.
+This project focuses on predicting injury occurrences in runners using machine learning techniques. The dataset, obtained from <a href='https://test.dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/UWU9PV'>DataVerseNL</a>, consists of training logs from a Dutch high-level running team (2012-2019), including various training and physiological metrics.
 </div>
 
 ## **Main Problem**
