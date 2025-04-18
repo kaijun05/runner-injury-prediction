@@ -39,7 +39,7 @@ python<version> -m venv <virtual-environment-name>
 ```
 3. Install Jupyter Notebook. Alternatively, you may install Jupyter Notebook through Anaconda (recommended) [here](https://docs.jupyter.org/en/latest/install/notebook-classic.html)
 ```bash
-pip install jupyter
+pip install notebook
 ```
 4. Install the required packages by typing:
 ```bash
