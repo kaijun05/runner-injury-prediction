@@ -1,7 +1,7 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-# created-by: conda 25.1.1
+# created-by: conda 25.3.1
 _openmp_mutex=4.5=2_gnu
 _py-xgboost-mutex=2.0=gpu_0
 anyio=4.9.0=pyh29332c3_0
@@ -19,7 +19,7 @@ brotli=1.1.0=h2466b09_2
 brotli-bin=1.1.0=h2466b09_2
 brotli-python=1.1.0=py313h5813708_2
 bzip2=1.0.8=h2466b09_7
-ca-certificates=2025.1.31=h56e8100_0
+ca-certificates=2025.1.31=h4c7d964_1
 cached-property=1.5.2=hd8ed1ab_1
 cached_property=1.5.2=pyha770c72_1
 cairo=1.18.4=h5782bbf_0
@@ -49,12 +49,12 @@ fonttools=4.56.0=py313hb4c8b1a_0
 fqdn=1.5.1=pyhd8ed1ab_1
 freetype=2.13.3=h0b5ce68_0
 graphite2=1.3.13=h63175ca_1003
-h11=0.14.0=pyhd8ed1ab_1
+h11=0.16.0=pyhd8ed1ab_0
 h2=4.2.0=pyhd8ed1ab_0
 harfbuzz=10.4.0=h9e37d49_0
 hpack=4.1.0=pyhd8ed1ab_0
-httpcore=1.0.7=pyh29332c3_1
-httpx=0.28.1=pyhd8ed1ab_0
+httpcore=0.13.3=pyhd8ed1ab_0
+httpx=0.25.1=pyhd8ed1ab_0
 hyperframe=6.1.0=pyhd8ed1ab_0
 icu=75.1=he0c23c2_0
 idna=3.10=pyhd8ed1ab_1
@@ -131,7 +131,7 @@ nest-asyncio=1.6.0=pyhd8ed1ab_1
 notebook-shim=0.2.4=pyhd8ed1ab_1
 numpy=2.2.4=py313hefb8edb_0
 openjpeg=2.5.3=h4d64b90_0
-openssl=3.4.1=ha4e3fda_0
+openssl=3.5.0=ha4e3fda_0
 overrides=7.7.0=pyhd8ed1ab_1
 packaging=24.2=pyhd8ed1ab_2
 pandas=2.2.3=py313hf91d08e_1
